@@ -7,7 +7,7 @@ El boto de pause no redirigeix enlloc perque he suposat que en un futur tendria 
 
 Les eines utilitzades han estat:
 
-* **Paint**(_Per modificar l'imatge de la lluna_)
-* **Adobe Photoshop CC**(_Per modificar el coet i el seu fons_)
+* **Paint** (_Per modificar l'imatge de la lluna_)
+* **Adobe Photoshop CC** (_Per modificar el coet i el seu fons_)
 * **Visual Studio 2015** (_Per escriure tot el codi tant HTML com CSS_)
 
